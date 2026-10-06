@@ -1,0 +1,6 @@
+{
+  "name": "Mamad Ketab Summarizer",
+  "description": "خلاصه‌ساز و تصویرگر هوشمند رمان براساس کانال ممدکتاب (t.me/mamadketab) و سامانه ثبت سفارش کتاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
